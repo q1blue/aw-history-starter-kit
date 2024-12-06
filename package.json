@@ -42,6 +42,6 @@
     "@alien-worlds/aw-antelope": "^0.0.40",
     "@alien-worlds/aw-history": "^0.0.9",
     "@alien-worlds/aw-storage-mongodb": "^0.0.10",
-    "express": "^4.18.2"
+    "express": "^4.21.2"
   }
 }
